@@ -1,0 +1,23 @@
+.proje-nav{
+    display: flex;
+}
+.proje-nav-item a{
+    text-decoration: none;
+}
+.proje-nav-item {
+    list-style: none;
+    margin-right: 10px;
+    margin-bottom: 3px;
+}
+.proje-nav-item a.active{
+    border-bottom: 3px solid rebeccapurple;
+}
+.title{
+    margin: 10px 0 20px 0;
+}
+hr{
+    margin-bottom: 30px;
+}
+.title{
+    color: #30115E;
+}
