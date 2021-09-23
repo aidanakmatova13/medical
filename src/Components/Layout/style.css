@@ -9,12 +9,14 @@
 .logo{
     width: 200px;
 }
+.bx-category-alt{
+    margin-right: 10px;
+}
 .nav-item a{
     color: whitesmoke;
     display: block;
     text-decoration: none;
     padding: 8px 20px;
-    border-left: 4px solid transparent;
 }
 .nav-item a.active{
     background-color: rgb(32, 6, 66);

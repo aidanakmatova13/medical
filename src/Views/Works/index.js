@@ -2,9 +2,7 @@ import React from 'react';
 
 const Works = () => {
     return (
-        <div>
-            Works
-        </div>
+        <h2 className='title'>ЗАДАЧИ И РАБОТЫ</h2>
     );
 };
 

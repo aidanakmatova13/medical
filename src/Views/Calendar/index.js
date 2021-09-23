@@ -2,9 +2,7 @@ import React from 'react';
 
 const Calendar = () => {
     return (
-        <div>
-            Calendar
-        </div>
+        <h2 className='title'>КАЛЕНДАРЬ</h2>
     );
 };
 
