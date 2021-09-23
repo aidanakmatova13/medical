@@ -6,6 +6,10 @@
     min-height: 100vh;
     width: 25%;
 }
+.aside-content{
+    position: sticky;
+    top: 0;
+}
 .logo{
     width: 200px;
 }

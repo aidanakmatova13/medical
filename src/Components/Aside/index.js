@@ -6,6 +6,7 @@ import {NavLink} from "react-router-dom";
 const Aside = () => {
     return (
             <aside className='aside'>
+                <div className='aside-content'>
                 <img src={logo} alt="Medical" className='logo'/>
                 <ul className="nav">
                     <li className="nav-item">
@@ -20,6 +21,7 @@ const Aside = () => {
                         <NavLink to='/possibilities'><i className='bx bx-category-alt'></i>Возможности</NavLink>
                     </li>
                 </ul>
+                </div>
             </aside>
     );
 };
